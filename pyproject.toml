@@ -8,7 +8,7 @@ version = "1.0.0"
 description = "Arab World Clock with Hijri Date - Switch between 22 countries"
 readme = "README.md"
 authors = [
-    {name = "sarok-exe", email = "sarokff@gmail.com"},
+    {name = "sarok-exe", email = "outmandaymo@gmail.com"},
 ]
 license = {text = "MIT"}
 classifiers = [
