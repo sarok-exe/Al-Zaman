@@ -37,21 +37,8 @@ COUNTRIES = {
     "5": {"name": "Egypt",   "tz": "Africa/Cairo"},
     "6": {"name": "Sudan",   "tz": "Africa/Khartoum"},
     "7": {"name": "Palestine", "tz": "Asia/Gaza"},
-    "8": {"name": "Lebanon", "tz": "Asia/Beirut"},
-    "9": {"name": "Syria",   "tz": "Asia/Damascus"},
-    "10": {"name": "Jordan",  "tz": "Asia/Amman"},
-    "11": {"name": "Iraq",    "tz": "Asia/Baghdad"},
-    "12": {"name": "Saudi Arabia", "tz": "Asia/Riyadh"},
-    "13": {"name": "Yemen",   "tz": "Asia/Aden"},
-    "14": {"name": "Oman",    "tz": "Asia/Muscat"},
-    "15": {"name": "UAE",     "tz": "Asia/Dubai"},
-    "16": {"name": "Qatar",   "tz": "Asia/Qatar"},
-    "17": {"name": "Bahrain", "tz": "Asia/Bahrain"},
-    "18": {"name": "Kuwait",  "tz": "Asia/Kuwait"},
-    "19": {"name": "Mauritania", "tz": "Africa/Nouakchott"},
-    "20": {"name": "Somalia", "tz": "Africa/Mogadishu"},
-    "21": {"name": "Djibouti", "tz": "Africa/Djibouti"},
-    "22": {"name": "Comoros", "tz": "Indian/Comoro"},
+    "8": {"name": "Syria",   "tz": "Asia/Damascus"},
+    "9": {"name": "Iraq",    "tz": "Asia/Baghdad"},
 }
 
 # ==================== ENGLISH NAMES ====================
