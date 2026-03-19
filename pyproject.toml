@@ -1,0 +1,32 @@
+[build-system]
+requires = ["hatchling"]
+build-backend = "hatchling.build"
+
+[project]
+name = "al-zaman"
+version = "1.0.0"
+description = "Arab World Clock with Hijri Date - Switch between 22 countries"
+readme = "README.md"
+authors = [
+    {name = "sarok-exe", email = "sarokff@gmail.com"},
+]
+license = {text = "MIT"}
+classifiers = [
+    "Programming Language :: Python :: 3",
+    "License :: OSI Approved :: MIT License",
+    "Operating System :: OS Independent",
+    "Environment :: Console",
+]
+requires-python = ">=3.8"
+dependencies = [
+    "pytz",
+    "hijri-converter",
+    "rich",
+]
+
+[project.urls]
+Homepage = "https://github.com/sarok-exe/Al-Zaman"
+Repository = "https://github.com/sarok-exe/Al-Zaman.git"
+
+[project.scripts]
+al-zaman = "alzaman.cli:main"
