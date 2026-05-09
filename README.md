@@ -1,8 +1,4 @@
 # Al-Zaman
+Terminal clock: Gregorian & Hijri dates, 22 Arab countries.
 
-A minimal terminal clock displaying Gregorian & Hijri dates with big time display. Switch between 9 Arab countries.
-
-## Installation
-
-```bash
-pipx install al-zaman
+[Wiki](https://github.com/sarok-exe/Al-Zaman/wiki)
