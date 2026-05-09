@@ -1,5 +1,12 @@
 # Al-Zaman
 
-Terminal clock displaying Gregorian and Hijri (Islamic) dates with live time. Switch between 22 Arab countries to see location-specific prayer times.
+Terminal clock displaying Gregorian and Hijri (Islamic) dates with live time. Switch between 22 Arab countries.
 
-[Wiki](https://github.com/sarok-exe/Al-Zaman/wiki)
+```
+git clone https://github.com/sarok-exe/Al-Zaman.git
+cd Al-Zaman
+pip install .
+al-zaman
+```
+
+Use arrow keys to switch between countries. Press `q` to quit.
