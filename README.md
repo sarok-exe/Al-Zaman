@@ -1,5 +1,9 @@
 # Al-Zaman
 
+<img src="Al-Zaman-icon.svg" alt="Al-Zaman" width="80">
+
+# Al-Zaman
+
 Terminal clock displaying Gregorian and Hijri (Islamic) dates with live time. Switch between 22 Arab countries.
 
 ```
